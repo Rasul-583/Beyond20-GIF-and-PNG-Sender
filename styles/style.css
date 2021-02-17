@@ -1,6 +1,6 @@
 body {
     margin: 50px;
-    background-color: #F6EEBA;
+    background-color: beige;
     font-family: 'Playfair Display', serif;
 }
 .center {
@@ -13,4 +13,21 @@ body {
   }
   p {
     font-family: 'Montserrat', sans-serif;
+  }
+  .button {
+      border: none;
+      color: white;
+      font-family: 'Playfair Display', serif;
+      font-weight: 900;
+      padding: 15px 32px;
+      text-align: center;
+      font-size: 50px;
+      top: 800px;
+      left: -800px;
+  }
+  .button1 {
+      background-color: #866f46;
+  }
+  .button2 {
+      background-color: #b9a179;
   }

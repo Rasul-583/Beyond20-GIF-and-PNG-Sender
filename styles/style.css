@@ -1,6 +1,6 @@
 body {
     margin: 50px;
-    background-color: beige;
+    background-color: #F6EEBA;
     font-family: 'Playfair Display', serif;
 }
 .center {
@@ -10,6 +10,9 @@ body {
   }
   h1 {
       font-weight: 600;
+  }
+  h2 {
+      font-weight: 500;
   }
   p {
     font-family: 'Montserrat', sans-serif;
@@ -26,7 +29,8 @@ body {
       left: -800px;
   }
   .button1 {
-      background-color: #866f46;
+      color: #b9a179;
+      background-color: whitesmoke;
   }
   .button2 {
       background-color: #b9a179;

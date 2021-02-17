@@ -1,6 +1,6 @@
 body {
     margin: 50px;
-    background-color: whitesmoke;
+    background-color: white;
     font-family: 'Playfair Display', serif;
 }
 .center {
@@ -30,7 +30,7 @@ body {
   }
   .button1 {
       color: #b9a179;
-      background-color: whitesmoke;
+      background-color: lightgray;
   }
   .button2 {
       background-color: #b9a179;

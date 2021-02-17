@@ -3,3 +3,9 @@ body {
     margin:auto;
     background-color: #F6EEBA;
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
